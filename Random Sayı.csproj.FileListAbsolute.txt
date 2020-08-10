@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\bin\Debug\Random Sayı.exe.config
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\bin\Debug\Random Sayı.exe
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\bin\Debug\Random Sayı.pdb
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random Sayı.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random_Sayı.Form1.resources
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random_Sayı.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random Sayı.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random Sayı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random Sayı.exe
+C:\Users\Administrator\source\repos\Random Sayı\Random Sayı\obj\Debug\Random Sayı.pdb
